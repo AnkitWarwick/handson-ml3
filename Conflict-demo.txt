@@ -1,2 +1,1 @@
-Hello, All the best for conflict training.
-Hello, All the best for conflict demo training.
+Hello, All the best for 2nd git branch training.
